@@ -6,6 +6,7 @@
 - 💬 I love building custom computer/keyboard setups!
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/acra-jonathan/)
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
+<br> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&layout=compact&theme=react)
 <br> <br>
