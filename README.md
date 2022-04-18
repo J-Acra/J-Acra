@@ -9,4 +9,4 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&layout=compact&theme=react)
-![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=react)
+![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=react&hide_rank=true)
