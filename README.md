@@ -7,5 +7,5 @@
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/acra-jonathan/)
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra)](https://github.com/J-Acra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&layout=compact&theme=react)]
 ![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=react)
