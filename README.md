@@ -8,4 +8,4 @@
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
 
 
-![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=React)
+![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=react)
