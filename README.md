@@ -12,4 +12,4 @@
 <br> <br>
 ![J-Acra GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Acra&show_icons=true&theme=react)
 
-![alt text](http://url/to/img.png)
+![My Custom Home Setup](https://media.discordapp.net/attachments/460545319873150996/921536487206555669/20211217_175553.jpg?width=682&height=910)
