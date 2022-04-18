@@ -9,6 +9,7 @@
 ---
 <h4>How to reach me:</h4>
 <a href="https://www.linkedin.com/in/acra-jonathan/" target="_blank"><img height="30" src="https://github.com/keenerz/keenerz/raw/main/Resources/LinkedIn.png?raw=true" /></a>
+<a href="mailto:keenankandev@gmail.com" target="_blank"><img height="30" src="https://github.com/keenerz/keenerz/raw/main/Resources/logo-gmail-9983.png?raw=true" /></a>
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&layout=compact&theme=react)
