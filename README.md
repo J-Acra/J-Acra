@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on any project in javascript/python!
 - 💬 I love building custom computer/keyboard setups!
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
----
-Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
+- Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&layout=compact&theme=react)
