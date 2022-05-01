@@ -1,6 +1,6 @@
    Welcome to my Github!👋
    
-- 🔭 I’m currently working on Guardian-Connect (My Own Ride-Share App)
+- 🔭 I’m currently working on custom a software solution for a smart-scale automating warehouse transactions for shipping.(Python W/Libraries)
 - 🌱 I’m currently learning IoT with python/raspberry pi!
 - 👯 I’m looking to collaborate on any project in javascript/python!
 - 💬 I love building custom computer/keyboard setups!
