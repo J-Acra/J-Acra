@@ -1,7 +1,7 @@
    <h2>Welcome to my Github!👋</h2>
    
 - 🔭 I’m currently working on a custom software solution for a smart-scale prototype being used in automating warehouse transactions for freight-forwarding.(Python W/Libraries)
-- 🌱 I’m currently learning IoT with python/raspberry pi!
+- 🌱 I’m currently learning multi-threaded programming.
 - 👯 I’m looking to collaborate on any project in javascript/python!
 - 💬 I love building custom computer/keyboard setups!
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
