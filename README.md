@@ -1,7 +1,7 @@
    <h2>Welcome to my Github!👋</h2>
    
 - 🔭 I’m currently working on a custom solution for a scale-scan prototype being used to automate warehouse transactions in freight-forwarding.(Python W/Libraries)
-- 🌱 I’m currently learning Typescript | React.Native | Firebase
+- 🌱 I’m currently learning Big O notation and time complexity.
 - 👯 I’m looking to collaborate on any project related to Javascript, Python, and React.
 - 💬 I love building custom computer/keyboard setups!
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
