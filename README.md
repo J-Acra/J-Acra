@@ -2,7 +2,7 @@
    
 - 🔭 I’m currently working as a Angular / .Net / Azure Fullstack Developer
 - 🌱 I’m currently learning how to google (never stops).
-- 💬 I love building custom computer/keyboard setups!
+- 💬 I love building custom computer/keyboard setups and gaming!
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
 - 📫 Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
 
