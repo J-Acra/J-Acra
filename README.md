@@ -1,9 +1,9 @@
    <h2>Welcome to my Github!👋</h2>
    
-- 🔭 I’m currently working as a Angular(typescript) / .Net(C#) / Azure Fullstack Developer
+- 🔭 I’m currently working as a Angular | .Net | Azure Fullstack Developer
 - 🌱 I’m currently learning how to google (never stops).
 - 💬 I love building custom computer/keyboard setups and gaming!
-- ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
+- ⚡ Fun fact: I have raced my car on the Nürburgring.
 - 📫 Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
 
 ---
