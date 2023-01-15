@@ -1,6 +1,6 @@
    <h2>Welcome to my Github!👋</h2>
    
-- 🔭 I’m currently working as a Angular / .Net / Azure Fullstack Developer
+- 🔭 I’m currently working as a Angular(typescript) / .Net(C#) / Azure Fullstack Developer
 - 🌱 I’m currently learning how to google (never stops).
 - 💬 I love building custom computer/keyboard setups and gaming!
 - ⚡ Fun fact: 6 Year Air-Force Veteran (Aerospace Equipment Mechanic)
