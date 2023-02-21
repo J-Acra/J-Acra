@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Angular | .Net | Azure Fullstack Developer
 - 🌱 I’m currently learning how to google (never stops) and sometimes ChatGPT.
 - 💬 I love building custom computer/keyboard setups, but also love extreme sports and the outdoors.
-- ⚡ Fun fact: I have raced my car on the Nürburgring!
+- ⚡ Fun fact: I have raced my car on the Nürburgring Nordschleife!
 - 📫 Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
 
 ---
