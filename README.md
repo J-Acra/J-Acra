@@ -7,7 +7,7 @@
 - 📫 Contact me Via: [LinkedIn](https://www.linkedin.com/in/acra-jonathan/), [Gmail](mailto:jonathanacra@gmail.com)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Acra&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=j-acra&theme=dark&show_icons=true&layout=compact)
 <br>
 <br>
 [![CodeWars Badge](https://www.codewars.com/users/J-Acra/badges/large)](https://www.codewars.com/users/J-Acra/)
