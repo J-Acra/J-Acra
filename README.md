@@ -1,6 +1,6 @@
    <h2>Welcome to my Github!👋</h2>
    
-- 🔭 I’m currently working as a Angular | .Net | Azure Fullstack Developer
+- 🔭 I’m currently working as a Angular | .Net (C#) | Azure Fullstack Developer
 - 🌱 I’m currently learning how to google (never stops) and sometimes ChatGPT.
 - 💬 I love building custom computer/keyboard setups, but also love extreme sports and the outdoors.
 - ⚡ Fun fact: Lived in Germany 4 years and raced my car (BMW F30 335i) on the Nürburgring Nordschleife!
