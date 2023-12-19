@@ -1,7 +1,7 @@
    <h2>Welcome to my Github!👋</h2>
    
 - 🔭 I’m currently working as a Fullstack Software Engineer.
-- 💻 My Current Stack: C# | Typescript | .Net7 | Angular | SQL | Entity Framework
+- 💻 My Current Stack: C# | Typescript | .Net | Angular | SQL | Entity Framework
 - 🌱 I’m currently reading Design Patterns: Elements of Reusable Object-Oriented Software.
 - 💬 I love building things and DIY, which has led to custom keyboards and computer setups, but I also love extreme sports and the outdoors.
 - ⚡ Fun fact: I Lived in Germany for 4 years and raced my car (BMW F30 335i) on the Nürburgring Nordschleife!
